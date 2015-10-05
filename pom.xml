@@ -18,7 +18,7 @@
     </license>
   </licenses>
 
-  <!-- get every artifact through repo.jenkins-ci.org, which proxies all the artifacts that we need -->
+  <!--get every artifact through repo.jenkins-ci.org, which proxies all the artifacts that we need -->
   <repositories>
     <repository>
       <id>repo.jenkins-ci.org</id>
